@@ -1,0 +1,8 @@
+const a = 500, b = 2, c = 3;
+int x, y, z;
+begin
+    if a > 2 then
+      z:=3;
+    x:= z*a;
+    y:= b*z*c
+end.
